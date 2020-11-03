@@ -1,0 +1,17 @@
+<VirtualHost *:80 >
+        ServerName simpleNews
+        DocumentRoot /home/glasfeu/PhpstormProjects/PersonnalGitHubProjects/Openclassrooms/simpleNews/Web
+        DirectoryIndex /bootstrap.php
+
+        <Directory / >
+                Options FollowSymlinks
+                AllowOverride All
+        </Directory >
+        <Directory /home/glasfeu/PhpstormProjects/PersonnalGitHubProjects/Openclassrooms/simpleNews/Web >
+                Options Indexes FollowSymLinks MultiViews
+                AllowOverride All
+                Order Deny, Allow
+                Allow From All
+        </Directory >
+        ErrorLog /home/glasfeu/PhpstormProjects/PersonnalGitHubProjects/Openclassrooms/simpleNews/var/log/dev.log
+</VirtualHost>

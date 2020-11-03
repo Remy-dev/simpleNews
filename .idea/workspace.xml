@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48dbcc80-0f3d-417b-aad8-0ae63c21e8c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Web/css/Envision.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/Application.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/ApplicationComponent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/BackController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/Config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/Entity.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/Field.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/Form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/FormBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/FormHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/HTTPRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/HTTPResponse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/Hydrator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/Manager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/Managers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/MaxLengthValidator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/NotNullValidator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/PDOFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/Page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/Route.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/Router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/SplClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/StringField.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/TextField.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/myFram/Validator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vendors/Entity/Comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vendors/Entity/News.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vendors/FormBuilder/CommentFormBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vendors/FormBuilder/NewsFormBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vendors/Model/CommentsManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vendors/Model/CommentsManagerPDO.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vendors/Model/NewsManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vendors/Model/NewsManagerPDO.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jkGEzy2E8wo6NC95lnzqzTuKbo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48dbcc80-0f3d-417b-aad8-0ae63c21e8c4" name="Default Changelist" comment="" />
+      <created>1604340570811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604340570811</updated>
+      <workItem from="1604340571884" duration="2253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
